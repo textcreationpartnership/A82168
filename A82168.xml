@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the kingdomes of England and Scotland, ioyned in armes for the vindication and defence of their religion, liberties, and lawes, against the popish, prelaticall, and malignant party; by the Honourable Houses of the Parliament of England, and the Honourable Convention of Estates of the kingdome of Scotland, in the yeere 1643. Die Martis 30 Ianuar. 1643. Ordered by the Lords assembled in Parliament, that the declaration of the kingdomes of England and Scotland shall be forthwith printed by the printer belonging to the House of Peeres; and that no man shall presume to print the said declaration after the said printer, as he will answer the contrary at his perill. J. Brown Cler. Parliamentorum.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82168</idno>
+            <idno type="STC">Wing D691</idno>
+            <idno type="STC">Thomason E31_3</idno>
+            <idno type="STC">ESTC R10107</idno>
+            <idno type="EEBO-CITATION">99858797</idno>
+            <idno type="PROQUEST">99858797</idno>
+            <idno type="VID">110856</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82168)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110856)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E31[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the kingdomes of England and Scotland, ioyned in armes for the vindication and defence of their religion, liberties, and lawes, against the popish, prelaticall, and malignant party; by the Honourable Houses of the Parliament of England, and the Honourable Convention of Estates of the kingdome of Scotland, in the yeere 1643. Die Martis 30 Ianuar. 1643. Ordered by the Lords assembled in Parliament, that the declaration of the kingdomes of England and Scotland shall be forthwith printed by the printer belonging to the House of Peeres; and that no man shall presume to print the said declaration after the said printer, as he will answer the contrary at his perill. J. Brown Cler. Parliamentorum.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Scotland. Convention of Estates. aut</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright in the Old-baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Februar. 1. 1643 [i.e. 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110856:1" rendition="simple:additions"/>
+            <p>THE DECLARATION OF THE KINGDOMES OF England and Scotland, Ioyned in Armes for the vindication and defence of their Religion, Liberties, and Lawes, againſt the Popiſh, Prelaticall, and Malignant party;</p>
+            <p>By the Honourable Houſes of the Parliament of <hi>England,</hi> and the Honourable Convention of Eſtates of the Kingdome of <hi>Scotland,</hi> in the yeere 1643.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Martis 30 <hi>Ianuar.</hi> 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords aſſembled in Parliament, that the Declaration of the Kingdomes of England and Scotland ſhall be forthwith printed by the Printer belonging to the Houſe of Peeres; and that no man ſhall preſume to print the ſaid De<g ref="char:EOLhyphen"/>claration after the ſaid Printer, as he will anſwer the contrary at his perill.</p>
+                        <closer>
+                           <signed>J. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Wright</hi> in the Old baily, Februar. 1. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:110856:2"/>
+            <head>THE DECLARATION OF THE KINGDOMES OF ENGLAND and SCOTLAND, Joyned in Armes for the Vindication and de<g ref="char:EOLhyphen"/>fence of their Religion, Liberties, and Lawes, againſt the Popiſh, Prelaticall, and Malignant party; By the Honourable Houſes of the Parliament of <hi>England,</hi> and the Honourable Convention of Eſtates of the Kingdome of <hi>Scotland,</hi> in the yeere 1643.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F either Chriſtian duty, which by reaſon of the light of the Goſpell ſo clearely ſhining amongſt us, might have been expected from the profeſ<g ref="char:EOLhyphen"/>ſors of Religion; Or if natu<g ref="char:EOLhyphen"/>rall affection which even in the Heathen and
+<pb n="2" facs="tcp:110856:3"/>
+Infidels ignorant of Chriſt, hath abounded toward their native Countrey, or ſincere re<g ref="char:EOLhyphen"/>ſpect to His Majeſties Honour and hap<g ref="char:EOLhyphen"/>pineſſe, could have been found in the waies or hearts of our common enemies, the ene<g ref="char:EOLhyphen"/>mies of Truth and Peace: If they had either feared God or regarded men, or yeelded to our Importunities, We had not after ſo ma<g ref="char:EOLhyphen"/>ny Petitions, Declarations and Remon<g ref="char:EOLhyphen"/>ſtrances as have filled all mens eares and hands, been put to this neceſſity of a new Declaration (which therefore muſt be more patheticke and preſſing then any of the for<g ref="char:EOLhyphen"/>mer:) Nor after ſo many troubles and ſuffe<g ref="char:EOLhyphen"/>rings of the Kingdome of <hi>Scotland,</hi> after the deſolation of the Kingdome of <hi>Ireland,</hi> and after ſo much blood, and ſo many unna<g ref="char:EOLhyphen"/>turall Tragedies in the Kingdome of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> had We been redacted to this preſent con<g ref="char:EOLhyphen"/>dition and joynt poſture of Armes; the Lord whoſe counſels are a great depth, and who is righteous in all his waies, and holy in all his workes, hath juſt cauſe of controverſie againſt us and this whole Iſland. But who would have beleeved that our Religion, Liberties, and Lawes which for ſo long a
+<pb n="3" facs="tcp:110856:3"/>
+time have endured oppoſition and Aſſaults of forraigne power, envying our happineſſe, would have been oppoſed, oppreſſed and trod under foot by the craft and cruelty of our owne Natives and Countrey men?</p>
+            <p>In this our extremity, firſt of all We De<g ref="char:EOLhyphen"/>clare, that We place not our confidence in our owne counſels and ſtrength, but our confi<g ref="char:EOLhyphen"/>dence is in God Almighty the Lord of Hoſts, who will not leave nor forſake his people; It is his owne Truth and Cauſe which we maintaine with all the Reformed Churches, and which hath been witneſſed and ſealed by the teſtimony, ſufferings, and blood of ſo many Confeſſours and Martyrs againſt the Hereſie, Superſtition, and Tyranny of Anti<g ref="char:EOLhyphen"/>chriſt: the glory of his owne Name, the exal<g ref="char:EOLhyphen"/>tation of the Kingdome of his Sonne, and the preſervation of his Church, and of this whole Iſland from utter ruine and devaſta<g ref="char:EOLhyphen"/>tion is our aime, and the end which we have before our eyes. His Covenant have we in both Nations ſolemnly ſworn and ſubſcribed, which he would not have put in our hearts to doe, if he had been minded to deſtroy us; The many prayers and ſupplications which
+<pb n="4" facs="tcp:110856:4"/>
+theſe many yeeres paſt, but eſpecially of late have been offered up with faſting and humi<g ref="char:EOLhyphen"/>liation, and with ſtrong crying and teares, unto him that is able to deliver and ſave us, are a ſeed which promiſe unto us a plentifull Harveſt of comfort and happineſſe; and the Apoſtacy, Atheiſme, Idolatry, Blaſphemies, Prophaneneſſe, Cruelty, Exceſſe, &amp; open moc<g ref="char:EOLhyphen"/>king of all Godlineſſe and Honeſty, have fil<g ref="char:EOLhyphen"/>led the cup of our Adverſaries to the brym, and threaten their ſpeedy and fearefull de<g ref="char:EOLhyphen"/>ſtruction, unleſſe it be prevented by ſuch ex<g ref="char:EOLhyphen"/>traordinary repentance, as ſeemeth not yet to have entered into their hearts.</p>
+            <p>Vpon theſe and the like grounds and con<g ref="char:EOLhyphen"/>ſiderations, being confident that this warre wherein both Nations now firmely united are ſo deeply engaged, is of God; We reſolve with courage and conſtancy unto the end, to doe our part, and the Lord who hath ſtirred up our ſpirits, diſplayed his Banner before us, and given the Alarm, doe that which ſee<g ref="char:EOLhyphen"/>meth him good.</p>
+            <p>Secondly, although every man is to hope for the principall reward of his ſervice from
+<pb n="5" facs="tcp:110856:4"/>
+God, who rewards every one according to his works; yet we finde our ſelves bound in conſci<g ref="char:EOLhyphen"/>ence and equity to Declare, that beſides thoſe who have the publique faith ingaged to them for their ſecurity, ſuch as ſince the beginning have done valiantly, and dealt faithfully in this Cauſe, and ſuch as have choſen rather to ſuffer the ſpoyling of their Goods, then to aſ<g ref="char:EOLhyphen"/>ſiſt the Enemy, or to take Armes againſt their Religion and Countrey, and ſhall continue conſtant in the ſame courſe of doing or ſuffe<g ref="char:EOLhyphen"/>ring unto the end, ſhall be according to their Merits taken into publique Notice and Con<g ref="char:EOLhyphen"/>ſideration, their loſſes (ſo far as may be) re<g ref="char:EOLhyphen"/>paired, and themſelves honoured and rewar<g ref="char:EOLhyphen"/>ded by ſuch meanes and waies, as we truſt, God in his providence ſhall afford, and the Parliaments or Eſtates of the two King<g ref="char:EOLhyphen"/>domes reſpectively ſhall in their Wiſdome, Iuſtice and Thankfulneſſe judge moſt con<g ref="char:EOLhyphen"/>venient; ſo that no man who hath been emi<g ref="char:EOLhyphen"/>nent in action, or hath ſuffered any notable loſſe for the publique, ſhall be neglected or ſleighted, but one way or other ſhall be thank<g ref="char:EOLhyphen"/>fully remembred, to his own honour and the good of his poſterity.</p>
+            <p>
+               <pb n="6" facs="tcp:110856:5"/>Thirdly, although Newtrality and indiffe<g ref="char:EOLhyphen"/>rency in the time of the danger of Religion be a thing deteſtable to God, who willeth all Chriſtians earneſtly to contend for the Truth, and ſuch as have been Newtraliſts or indif<g ref="char:EOLhyphen"/>ferent in the tunes of civill diviſion and dan<g ref="char:EOLhyphen"/>ger of the Common-wealth, have been in all Nations ſeverely puniſhed as pernicious &amp; publique enemies: yet that the conſciences of all men may be the more convinced, &amp; all pre<g ref="char:EOLhyphen"/>texts removed, We give now <hi>Publique War<g ref="char:EOLhyphen"/>ning</hi> to ſuch perſons to reſt no longer upon their Newtrality, or to pleaſe themſelves with the naughty and ſlothfull pretext of In<g ref="char:EOLhyphen"/>differency, but that they addreſſe themſelves ſpeedily to take the Covenant, and joyne with all their power in the defence of this Cauſe againſt the common Enemie, and by their zeale and forwardneſſe hereafter to make up what hath been wanting through their luke<g ref="char:EOLhyphen"/>warmneſſe; this they will finde to be their greateſt wiſdome and ſafety; otherwiſe We doe Declare them to be publique Enemies to the Religion and Country, and that they are to be cenſured and puniſhed as profeſ'd Adver<g ref="char:EOLhyphen"/>ſaries and Malignants.</p>
+            <p>
+               <pb n="7" facs="tcp:110856:5"/>Fourthly, Becauſe a great many of the mul<g ref="char:EOLhyphen"/>titude of the people, upon ignorant Miſtake<g ref="char:EOLhyphen"/>ings, falſe Informations, and Threats, or Compulſions, againſt their wills and inclina<g ref="char:EOLhyphen"/>tion, have beene induced or conſtrained to joyne in Armes with the Enemies againſt their Religion and Native Country; Wee doe Declare, that all common Souldiers, who up<g ref="char:EOLhyphen"/>on the humble acknowledgement of their for<g ref="char:EOLhyphen"/>mer Errors, ſhall offer themſelves willingly and ſpeédily to take the Covenant, and ſhall joyne heartily and really in the defence of this Cauſe, as becommeth good Chriſtians and lovers of their Country, ſhall be freély accep<g ref="char:EOLhyphen"/>ted into the Covenant, and their former Error paſſed by; otherwiſe let them expect the puniſh<g ref="char:EOLhyphen"/>ment of wilfull Delinquents and Malig<g ref="char:EOLhyphen"/>nants.</p>
+            <p>Fifthly, Becauſe ſome of the Scottiſh Na<g ref="char:EOLhyphen"/>tion, upon their owne private reſpects, or up<g ref="char:EOLhyphen"/>on ſpecious pretences and faire perſwaſions, have joyned themſelves in Armes with the Popiſh, Prelaticall, and Malignant party, againſt the Parliament and Kingdome of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and not conſidering the nature of the
+<pb n="8" facs="tcp:110856:6"/>
+Cauſe in which they have beene engaged, nor the deepe intereſt of the Church and Kingdom of <hi>Scotland,</hi> upon which this Warre was to turne in the end, have beene fighting againſt their owne Religion and native Kingdome; Wee doe therefore againe <hi>Warne</hi> all ſuch, of whatſoever quality, and in whatſoever place, ſpeedily to withdraw themſelves from that Faction, to confeſſe their miſtakes, and to joyne in the Covenant and Cauſe of God in both Kingdomes before the firſt day of <hi>March</hi> next, otherwiſe Wee Declare, in the behalfe of the Kingdome of <hi>England,</hi> that they are to expect no favour, but are to be uſed as deſperate Ma<g ref="char:EOLhyphen"/>lignants; And Wee Declare, in behalfe of the Kingdome of <hi>Scotland,</hi> if they either continue in Armes after the foreſaid firſt day of <hi>March,</hi> or withhold their helpe and aſſiſtance from their Native Country, in the time of trouble and danger, they are to be cenſured and puniſh<g ref="char:EOLhyphen"/>ed as publique Enemies to their Religion and Country, perfidious tranſgreſſors of their Nationall Covenant, and their Eſtates diſpo<g ref="char:EOLhyphen"/>ſed of for the uſe of the Publique.</p>
+            <p>Sixthly, Becauſe there are divers Noble<g ref="char:EOLhyphen"/>men,
+<pb n="9" facs="tcp:110856:6"/>
+Knights, Gentlemen, Citizens, and o<g ref="char:EOLhyphen"/>thers, who by forſaking or deſerting the Par<g ref="char:EOLhyphen"/>liament of <hi>England,</hi> and by joyning themſelves to the Enemies of Religion, his Majeſties happineſſe and Peace of the Kingdomes, have made the Diviſion greater, and the Breaches wider betwixt the King and his Parliament, and thereby contrary to the duty of their pla<g ref="char:EOLhyphen"/>ces and callings, have beene the cauſe of the ſhedding of much innocent Blood, of great Loſſes, and of many Miſeries and dangers, to the Publique of both Kingdomes, and of the Sufferings of private men in their Eſtates, and Lives, and yet are not to be reckoned a<g ref="char:EOLhyphen"/>mongſt the prime Authors of this unnaturall Warre, nor amongſt the malicious and deſpe<g ref="char:EOLhyphen"/>rate Enemies of their Religion and Country: Wee doe Declare, That all ſuch forſaking their former Oppoſition, returning to their duty, and indeavouring the good of Religion and the publique Peace, ſhall, as to their lives and liberties of their perſons, be ſecured, and ſhall be received into favour: But to the end, that a juſt difference may be made betwixt ſuch perſons returning ſo late to their duty, and
+<pb n="10" facs="tcp:110856:7"/>
+thoſe that never departed from it, they muſt expect that toward the payment of the publique Debts, relieving the common Burdens of the Kingdomes, and repairing of particular Loſſes; All which in a great part have beene contracted and ſuſtained by their default or procurement: Their Eſtates in ſome proporti<g ref="char:EOLhyphen"/>ons ſhould be lyable, and that as the wiſedome and diſcretion of the Parliament, or of ſuch as ſhall be authorized by them, (who will be as carefull to prevent their ruine as to puniſh their Delinquencies) ſhall find &amp; judge to be neceſſary for that end.</p>
+            <p>Wherein alſo, the time of their returning and offering themſelves, the reality of their affections and intentions, and readineſſe to joyne in the common Cauſe, and Covenant, will be taken into ſpeciall conſideration. And in caſe they perſiſt in their Oppoſition, and ſhall not returne before the firſt day of <hi>March</hi> next, they are not to expect favour, but ſhall be puniſhed as publique Enemies to their Religion and Country.</p>
+            <p>Seventhly, Becauſe Papiſts and Popiſh Recuſants, according to the principles of their
+<pb n="11" facs="tcp:110856:7"/>
+Profeſſion, have ever beene plotting and con<g ref="char:EOLhyphen"/>triving the change of Religion in this Iſland, and the Ruine of all the Profeſſors thereof: And after the Fruſtration of their Attempts, having waited upon ſuch a time as this, have alienated the Heart of the Kings Majeſtie from his Proteſtant and Loyall Subjects, taken Armes againſt the Parliament &amp; King<g ref="char:EOLhyphen"/>dom, and by all their meanes and power, have maintained a Bloody and unnaturall Warre, preſuming in the end to have their execrable Superſtition and Idolatry ſet up in the place of the true Reformed Religion, and the King and his Kingdomes to be brought under the Power and Tyranny of the Pope: Wee doe hereby Declare, That all ſuch Papiſts and Popiſh Recuſants, who have beene, now are, or ſhall be actually in Armes, under the falſe pretence of defending the Kings Perſon and Authority, are to looke for no favour, but to be puniſhed as Traytors, and profeſſ'd and in<g ref="char:EOLhyphen"/>tolerable Enemies of Religion and their Na<g ref="char:EOLhyphen"/>tive Country. The ſame Declaration Weé al<g ref="char:EOLhyphen"/>ſo make againſt all ſuch Iriſh Rebells, whe<g ref="char:EOLhyphen"/>ther Papiſts or others, who have come over
+<pb n="12" facs="tcp:110856:8"/>
+from <hi>Ireland,</hi> and aſſiſted in this Warre a<g ref="char:EOLhyphen"/>gainſt the Parliament, and Kingdome of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>And Laſtly, Becauſe there are ſome few wicked &amp; diveliſh Spirits of both Kingdoms, who have kindled and fomented the Fire of Diviſion and Warre betwixt the King and his Parliament, or have miſgoverned his Maje<g ref="char:EOLhyphen"/>ſties Counſells and Courſes to his owne diſ<g ref="char:EOLhyphen"/>honour, and to the deſtruction of his loving and dutifull Subjects, or have infuſed Malignan<g ref="char:EOLhyphen"/>cie in others, or have beene reſtleſſe and active Inſtruments of the Troubles and Miſeries of his Majeſties Dominions.</p>
+            <p>Wee doe Declare, concerning thoſe who are or ſhall be found by the Supreame Iudi<g ref="char:EOLhyphen"/>catories of the Kingdomes reſpectively, or their Committees appoynted for that effect, to be ſuch, That as the Conſcience of their owne bad Deſervings hath made them to deſpaire of favour, and thereby unceſſantly to worke more and more miſchiefe againſt their Religion and Native Country, ſo are they to look for ſuch Execution of Iuſtice, as is due to Traytors and Enemies of Religion, of the King, and
+<pb n="13" facs="tcp:110856:8"/>
+his Kingdomes, for Terror and Example to others, in all times to come.</p>
+            <p>And it is further now Declared, That the whole Eſtates, reall and perſonall, moveable, and Inheritance of thoſe that ſhall not come in at the times before limited in the Sixth Arti<g ref="char:EOLhyphen"/>cle, and of the perſons before excepted from Pardon, (as of Papiſts in Armes, Iriſh Re<g ref="char:EOLhyphen"/>bells, and thoſe who ſhall be found to come within the compaſſe of the precedent Article) ſhall be forfeited and imployed for paying the Publique Debts, relieving the common Bur<g ref="char:EOLhyphen"/>dens of the Kingdomes, and repairing of par<g ref="char:EOLhyphen"/>ticular Loſſes.</p>
+            <p>And this Declaration Wee make, not from any preſumption or vaine-glorying in the ſtrength of our Armies and Forces, but from the ſenſe of that duty which is re<g ref="char:EOLhyphen"/>quired, and expected from the high places and publique relations wherein we ſtand, and from the aſſurance Wee have of the aſſiſtance of God, by whoſe providence the truſt and ſafety of theſe Kingdomes is put in our hands at this time, having after long and grave con<g ref="char:EOLhyphen"/>ſultation,
+<pb n="14" facs="tcp:110856:9"/>
+reſolved and decreed never to lay downe Armes till Truth and Peace by the bleſſing of God be ſetled in this Iſland upon a firme foundation for the preſent and future Generations, which ſhall be eſteémed of Vs an abundant reward of all that Wee can doe or ſuffer in this Cauſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
